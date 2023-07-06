@@ -38,7 +38,7 @@ def segment_customers(input_data):
         pred_1 = 'Cluster 3'
     return pred_1
 
-master = tk.tk()
+master = tk.Tk()
 master.title("Customer Segmentation Analysis")
 
 label = Label(master, text='Customer Segmentation Analysis', bg='black', fg='white')
