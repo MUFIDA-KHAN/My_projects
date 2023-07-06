@@ -1,4 +1,4 @@
-import tkinter as tk
+import tkinter
 from tkinter import Label, Entry, Button
 import joblib
-import pandas as pd
+import pandas 
