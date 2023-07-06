@@ -65,3 +65,5 @@ e5.grid(row=5, column=1)
 Button(master, text='Submit', command=show_entry_fields).grid(row=6, columnspan=2)
 
 master.mainloop()
+if __name__ == '__main__':
+    main()
